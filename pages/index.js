@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1>
-          Welcome to NextJs Go App! You're trying to change the world!
+          Welcome to NextJs Go App! You are trying to change the world!
         </h1>
       </main>
     </div>
